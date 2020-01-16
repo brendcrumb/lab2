@@ -7,6 +7,7 @@
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
 	color: #CC00AA;
+	/* color: #DABFFF */
 }
 
 /* this style exists to make it obvious that you've successfully linked
@@ -31,19 +32,4 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;
-}
-
-p{
-	font-variant: small-caps;
-}
-
-.project p {
-	margin-left: 1px;
-	background-color: #ab1234;
-	padding: 1px;
-	width: 1px;
-}
-
-#project1 {
-	font-variant: small-caps;
 }
